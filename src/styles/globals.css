@@ -1,0 +1,3 @@
+/*@tailwind base; Mantineとの競合のため*/
+@tailwind components;
+@tailwind utilities;
